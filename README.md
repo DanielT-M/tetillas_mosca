@@ -15,5 +15,5 @@ La función exporta 3 tablas para su posterior análisis.
 	"Distancias.csv" Este punto indica cuáles son los puntos entre los que se midió la distancia y su magnitud en µm. 
 
 Autores: 
-Manuel Alejandro Zúniga García
+Manuel Alejandro Zúniga García,
 Daniel Tapia Merino
