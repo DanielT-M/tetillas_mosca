@@ -3,7 +3,7 @@ Proyecto para facilitar la cuantificación de la densidad de las tetillas presen
 Desarrollado por alumnos de maestría del laboratio de Genética de Transducción de Señales en el INB, UNAM.
 
 ENGLISH: Project to facilitate density quantification of nipple arrays of the Drosophila (fruit fly) lens of the ommatidium.
-Developed by master's degree students from the "Genética de Transducción de Señales" Laboratory at INB, UNAM.
+Developed by master's degree students from the Laboratory of Genetics and Signal Transduction at INB, UNAM.
 
 Los datos de entrada deben de organizarse en dos columnas tituladas "x1" y "y1", cada fila corresponde a las coordenadas del centroide de una tetilla en una imagen obtenida por SEM, captura realizada previamente a mano. En la carpeta de tablas se ofrece el archivo "Pezones_control_coordenadas.csv" como dataset de prueba.
 
